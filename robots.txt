@@ -9,7 +9,7 @@ User-agent: Bingbot
 Allow: /
 
 # Sitemap location
-Sitemap: https://www.delightfulbean.com/sitemap.xml
+Sitemap: https://largocoffeecart.fyi/sitemap.xml
 
 # Crawl-delay (optional)
 Crawl-delay: 1
